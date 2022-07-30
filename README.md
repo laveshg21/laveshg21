@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lavesh-gupta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DBA4E"></a> <a href="https://www.codechef.com/users/laveshgupta" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=2DBA4E"></a> <a href="https://codeforces.com/profile/luhhvesh" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=2DBA4E"></a> <a href="https://www.kaggle.com/laveshgupta" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=2DBA4E"></a>
+<a href="https://www.linkedin.com/in/lavesh-gupta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=2DBA4E"></a> <a href="https://www.codechef.com/users/laveshgupta" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-black?style=for-the-badge&logo=codechef&logoColor=2DBA4E"></a> <a href="https://codeforces.com/profile/luhhvesh" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-black?style=for-the-badge&logo=codeforces&logoColor=2DBA4E"></a> <a href="https://www.kaggle.com/laveshgupta" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=kaggle&logoColor=2DBA4E"></a>
 </p>
 
 <hr/>
