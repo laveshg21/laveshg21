@@ -9,6 +9,18 @@
 </p>
 
 <hr/>
+#### Lavesh's GitHub Statistics:
+<div align="center">
+    <a href="#"><img alt="Lavesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laveshg21&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2DBA4E&icon_color=2DBA4E" height="200" width="450"/></a> <a href="#"><img alt="Lavesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laveshg21&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2DBA4E&icon_color=2DBA4E" height="200" width="350"/></a>
+    <br/>
+</div>
+
+<hr/>
+
+#### Contributions in the last 30 days:
+<a href="#"><img alt="Lavesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=laveshg21&custom_title=Lavesh's%20Contribution%20Graph&bg_color=0D1117&color=2DBA4E&line=FFFFFF&point=2DBA4E&hide_border=true" /></a>
+
+<hr/>
 Languages:
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=2DBA4E"></a>
@@ -28,14 +40,3 @@ Languages:
 <a href="#"><img src="https://img.shields.io/badge/HTML-%23000000.svg?style=for-the-badge&logo=html5&logoColor=2DBA4E"></a> 
 </p>
 <hr/>
-
-#### Lavesh's GitHub Statistics:
-<div align="center">
-    <a href="#"><img alt="Lavesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laveshg21&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2DBA4E&icon_color=2DBA4E" height="200" width="450"/></a> <a href="#"><img alt="Lavesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laveshg21&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2DBA4E&icon_color=2DBA4E" height="200" width="350"/></a>
-    <br/>
-</div>
-
-<hr/>
-
-#### Contributions in the last 30 days:
-<a href="#"><img alt="Lavesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=laveshg21&custom_title=Lavesh's%20Contribution%20Graph&bg_color=0D1117&color=2DBA4E&line=FFFFFF&point=2DBA4E&hide_border=true" /></a>
