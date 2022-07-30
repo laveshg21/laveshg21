@@ -18,7 +18,7 @@
 
 #### Lavesh's GitHub Statistics:
 <div align="center">
-    <a href="#"><img alt="Lavesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laveshg21&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2DBA4E&icon_color=2DBA4E" height="200" width="500"/></a> <a href="#"><img alt="Lavesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laveshg21&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2DBA4E&icon_color=2DBA4E" height="200" width="300"/></a>
+    <a href="#"><img alt="Lavesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laveshg21&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2DBA4E&icon_color=2DBA4E" height="200" width="450"/></a> <a href="#"><img alt="Lavesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laveshg21&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2DBA4E&icon_color=2DBA4E" height="200" width="350"/></a>
     <br/>
 </div>
 
