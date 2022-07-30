@@ -9,11 +9,24 @@
 </p>
 
 <hr/>
+Languages:
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=2DBA4E"></a>
+<a href="#"><img src="https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=c&logoColor=2DBA4E"></a>
 
-#### Languages and Tools:
-<code><img height="30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+</p>
 
+#### Utilities:
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=2DBA4E"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=2DBA4E"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LaTeX-%23000000.svg?style=for-the-badge&logo=Overleaf&logoColor=2DBA4E"></a>
+</p>
+
+#### Web Development:
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/HTML-%23000000.svg?style=for-the-badge&logo=html5&logoColor=2DBA4E"></a> 
+</p>
 <hr/>
 
 #### Lavesh's GitHub Statistics:
