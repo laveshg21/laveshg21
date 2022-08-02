@@ -1,7 +1,7 @@
 <h1 align="center">
   Lavesh Gupta
   <br/>
-  
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=3400&color=2DBA4E&center=true&vCenter=true&width=600&height=52&lines=Data+Science;Machine+Learning;Data+Structures+%26+Algorithms;Competitive+Programming;Databases;Web+Development" style="max-width: 100%;">
 </h1>
 
 <p align="center">
