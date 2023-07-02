@@ -1,9 +1,9 @@
-```js
+```json
 name: Lavesh Gupta
 located_in: India
 education: ["Bachelor's in Electrical Engineering"]
-institute: IIT Kanpur 📖
-job: QR Intern (Hudson & Thames) 🚀
+institute: IIT Kanpur 
+job: QR Intern (Hudson & Thames)
 past experiences: 
   - ["Summer Research Associate", "Industry 4.0", "Apr-Jul 2023"]
   - ["Research Consultant", "WorldQuant BRAIN", "Fully Remote", "Jan-Jun 2023"]
