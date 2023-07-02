@@ -1,5 +1,3 @@
-Hello, welcome to my github profile. 
-
 ```python
 name: Lavesh Gupta
 located_in: India
@@ -12,7 +10,7 @@ past experiences:
 
 fields_of_interests: ["Machine Learning", "Quantitative Finance", "Trading", "Time Series Analysis", 
                       "Software Development", "Data Science"]
-technical_background: [["Python", "C++", "C"], 
-                       ["MongoDB", "Express", "React", "Node"], ["sklearn", "statsmodel", "tensorflow"], ["numpy, pandas, matplotplib, seaborn"]]
+technical_background: [["Python", "C++", "C"], ["MongoDB", "Express", "React", "Node"],
+                       ["sklearn", "statsmodel", "tensorflow"], ["numpy, pandas, matplotplib, seaborn"]]
 hobbies: ["Chess", "Mobile Gaming", "Cricket", "Music"]
 ```
