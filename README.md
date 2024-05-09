@@ -1,12 +1,13 @@
 ```python
 name: Lavesh Gupta
 located_in: India
-education: ["Bachelor's in Electrical Engineering"]
+education: ["BTech in Electrical Engineering"]
 institute: IIT Kanpur 
-job: QR Intern (Hudson & Thames)
-past experiences: 
-  - ["Summer Research Associate", "Industry 4.0", "Apr-Jul 2023"]
-  - ["Research Consultant", "WorldQuant BRAIN", "Fully Remote", "Jan-Jun 2023"]
+job: Trainee Market Analyst @ Axxela Analytics & Research
+past experiences:
+  - ["Quant Research Intern", "Machine Learning", "Hudson & Thames", "June-July 2023"] 
+  - ["Summer Research Associate", "Office of Research & Development, IIT Kanpur", "Prof. N.S. Vyas" "Apr-Jul 2023"]
+  - ["Research Consultant", "WorldQuant BRAIN", "Fully Remote", "Jan 2023 - Present"]
 
 fields_of_interests: ["Machine Learning", "Quantitative Finance", "Trading", "Time Series Analysis", 
                       "Software Development", "Data Science"]
