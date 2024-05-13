@@ -1,7 +1,7 @@
 ```python
 name: Lavesh Gupta
 located_in: India
-education: ["BTech in Electrical Engineering"]
+education: ["BTech, Electrical Engineering"]
 institute: IIT Kanpur 
 job: Trainee Market Analyst @ Axxela Analytics & Research
 past experiences:
