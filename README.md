@@ -3,16 +3,16 @@ name: Lavesh Gupta
 located_in: India
 education: ["Final Year, BTech, Electrical Engineering"]
 institute: IIT Kanpur 
-job: 
+job: [" (Upcoming) Application Developer - 1 at Oracle"]
 past experiences:
-  - ["Trainee Market Analyst", "Trading", "Axxela Analytics & Research", "May-July 2024"]
-  - ["Quant Research Intern", "Machine Learning", "Hudson & Thames", "June-July 2023"] 
+  - ["Trainee Analyst", "Trading", "Axxela Analytics & Research", "May-July 2024"]
+  - ["Machine Learning Intern", "Hudson & Thames LLC", "June-July 2023"] 
   - ["Summer Research Associate", "Office of Research & Development, IIT Kanpur", "Prof. N.S. Vyas" "Apr-Jul 2023"]
-  - ["Research Consultant", "WorldQuant BRAIN", "Fully Remote", "Jan 2023 - Present"]
+  - ["Research Consultant", "WorldQuant BRAIN", "Remote", "Jan 2023 - Present"]
 
-fields_of_interests: ["Machine Learning", "Quantitative Finance", "Trading", "Time Series Analysis", 
-                      "Software Development", "Data Science"]
-technical_background: [["Python", "C++", "C"], ["MongoDB", "Express", "React", "Node"],
-                       ["sklearn", "statsmodel", "tensorflow"], ["numpy, pandas, matplotplib, seaborn"]]
-hobbies: ["Chess", "Mobile Gaming", "Cricket", "Music"]
+fields_of_interests: ["Network Porgramming", "Operating Systems", "Software Development", "Software Architecture"]
+technical_background: [["Java", "C++", "C"],
+                       ["MongoDB", "Express", "React", "Node"],
+                       [" SpringBoot, Core Java (SE), JDBC, Servelets, JSP"]]
+hobbies: ["Chess", "Badminton", "Cricket", "Music"]
 ```
